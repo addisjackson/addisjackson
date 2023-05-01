@@ -10,6 +10,10 @@
 
 - [*My resume*](https://pursuit.instructure.com/files/2001/download?download_frd=1)
 - [*LinkedIn*](https://www.linkedin.com/in/addis-jackson-37aa4117)
+
+                                         --*ALWAYS REMEMBER*--
+  <!--START_SECTION:update_image-->
+  <!--END_SECTION:update_image-->
 <!---
 addisjackson/addisjackson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
