@@ -12,10 +12,9 @@
 - [*LinkedIn*](https://www.linkedin.com/in/addis-jackson-37aa4117)
 
                                          --*ALWAYS REMEMBER*--
-  <!--START_SECTION:update_image-->
+
    ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming)
-  <!--END_SECTION:update_image-->
-<!---
+
 addisjackson/addisjackson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
