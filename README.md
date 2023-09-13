@@ -13,7 +13,12 @@
 
                                          --*ALWAYS REMEMBER*--
 
-   ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming)
+  ``html
+<div class="miniwebtoolwidget" data-calculator="random-quote-generator" data-width="380">
+    <div class="miniwebtoolh">Random Quote Generator</div>
+    <p><a href="https://miniwebtool.com/random-quote-generator/" target="_blank">Random Quote Generator ©miniwebtool.com</a></p>
+</div>
+<script async src="https://miniwebtool.com/embed.js?v=1"></script>
 
 addisjackson/addisjackson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
